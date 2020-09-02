@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://CX3201.github.io</id>
     <title>阿贝尔的荒芜庭院</title>
-    <updated>2020-02-10T01:58:06.708Z</updated>
+    <updated>2020-09-02T08:57:58.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://CX3201.github.io"/>
     <link rel="self" href="https://CX3201.github.io/atom.xml"/>
@@ -11,9 +11,18 @@
     <icon>https://CX3201.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 阿贝尔的荒芜庭院</rights>
     <entry>
+        <title type="html"><![CDATA[答案是：不能！]]></title>
+        <id>https://CX3201.github.io/post/da-an-shi-bu-neng/</id>
+        <link href="https://CX3201.github.io/post/da-an-shi-bu-neng/">
+        </link>
+        <updated>2020-09-02T08:51:16.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://CX3201.github.io/post-images/1599036926849.jpeg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我叒开始写博客了]]></title>
-        <id>https://CX3201.github.io/post/start</id>
-        <link href="https://CX3201.github.io/post/start">
+        <id>https://CX3201.github.io/post/start/</id>
+        <link href="https://CX3201.github.io/post/start/">
         </link>
         <updated>2020-02-05T09:28:46.000Z</updated>
         <content type="html"><![CDATA[<p>写博客是一种浪漫。之前用一些命令行工具建静态博客，还是比较繁琐，时间久了不写就忘记怎么用了。这次用Gridea可视化工具，看看能不能持续写作。😬</p>
